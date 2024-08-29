@@ -10,6 +10,8 @@ public class InitData implements CommandLineRunner {
     public void run(String... args) throws Exception {
     Student s1 = new Student();
     s1.setName("hans");
+    s1.setName("hans");
+    s1.setName("hans");
 
     }
 }
